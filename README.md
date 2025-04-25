@@ -120,8 +120,8 @@ Auto-detection supports languages such as English, Korean, Spanish, French, etc.
 
 ## 👨‍💻 Author
 
-Developed by **Prudhvi PLN**
-Modified by **PanguPlay**
+- Developed by **Prudhvi PLN**
+- Modified by **PanguPlay**
 
 ---
 
