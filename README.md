@@ -119,6 +119,8 @@ Auto-detection supports languages such as English, Arabic, Hindi, Indonesia, Khm
 
 - `ffmpeg` is required and must be in your system path for HLS merging.
 - Only `http.client` is used internally for some requests due to current site restrictions.
+- PNG type m3u8 (HLS) video download not yet supported.
+- Only ts type m3u8 (HLS) & mp4 video download supported.
 
 ---
 
