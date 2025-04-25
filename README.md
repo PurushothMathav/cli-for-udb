@@ -1,6 +1,6 @@
-# 🎬 Universal Downloader Bot (UDB) - KissKH Edition
+# 🎬 Support Bot using (UDB) - KissKH Edition
 
-UDB is a powerful, modular video downloader CLI tool tailored for scraping and downloading Asian dramas and anime from [kisskh.ovh](https://kisskh.ovh). It supports episode batch downloads, multiple subtitle tracks, and configurable profiles for different content types.
+This version of UDB is a powerful, modular video downloader CLI tool tailored for scraping and downloading Asian dramas and anime from [kisskh.ovh](https://kisskh.ovh). It supports episode batch downloads, multiple subtitle tracks, and configurable profiles for different content types.
 
 ---
 
