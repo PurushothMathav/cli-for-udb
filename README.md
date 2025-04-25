@@ -107,7 +107,11 @@ Subtitles are:
 - Renamed using language codes
 - Stored alongside the episode
 
-Auto-detection supports languages such as English, Korean, Spanish, French, etc.
+Auto-detection supports languages such as English, Arabic, Hindi, Indonesia, Khmer, Malay & even more.
+
+## 🧪 Download Subtitle Only
+
+- To download only subtitle not video, then visit my [Repo](https://github.com/PurushothMathav/kissdramasubs)
 
 ---
 
@@ -120,8 +124,8 @@ Auto-detection supports languages such as English, Korean, Spanish, French, etc.
 
 ## 👨‍💻 Author
 
-- Developed by **Prudhvi PLN**
-- Modified by **PanguPlay**
+- Developed by **Prudhvi PLN** [Repo](https://github.com/Prudhvi-pln/udb)
+- Modified by **PanguPlay** [Repo](https://github.com/PurushothMathav/cli-for-udb)
 
 ---
 
